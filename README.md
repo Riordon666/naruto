@@ -17,7 +17,7 @@
 - 自动缓存资源
 - 提供木叶快报快捷入口
 - 提供饰品模拟器快捷入口
->注：本插件使用第三方API获取抖音数据，需看[api配置说明](https://github.com/Riordon666/naruto?tab=readme-ov-file#api-%E8%AF%B4%E6%98%8E)自行配置
+>💡 注：本插件使用第三方API获取抖音数据，需看[api配置说明](https://github.com/Riordon666/naruto?tab=readme-ov-file#api-%E8%AF%B4%E6%98%8E)自行配置
 
 ---
 
@@ -120,16 +120,18 @@ pip install -r naruto\requirements.txt
 
 <div align="center">
 
-|                                                                                                      博主                                                                                                       | 平台 | 简写 | 粉丝量（截止26/03/24） |
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:| :--: | :--: |:---------------:|
-|             <a href="https://www.douyin.com/user/MS4wLjABAAAAVoBbnKiN2-9t8Lz69lYklrqAL-_-t-2rJ8pyIjEDxlk?from_tab_name=main" target="_blank" rel="noopener noreferrer"><strong>南宫的嘟嘟<strong></a>              | 抖音 | 南宫的嘟嘟 |      3.4w       |
-|             <a href="https://www.douyin.com/user/MS4wLjABAAAA8LqKXclwOw-EBMvRvEBTnw9N_ibnaenOV3JIY8u5e2Y?from_tab_name=main" target="_blank" rel="noopener noreferrer"><strong>南宫诺奇</strong></a>              | 抖音 | 南宫诺奇 |      1.6w       |
-|   <a href="https://www.douyin.com/user/MS4wLjABAAAA2ugLHsGsSNx5Be58ACWL7hNf8qiKOMi3ASea4JB18seP3-vm65TzJimuxvM_wL5n?from_tab_name=main" target="_blank" rel="noopener noreferrer"><strong>火影子时</strong></a>   | 抖音 | 子时 |      1.0w       |
-|  <a href="https://www.douyin.com/user/MS4wLjABAAAAK0VgLWfiB1Cm7tYXFcfWPHF3CGmiCfq5YXvz8IjL-rP8WzLjbfIl0_jVMPB9k5Th?from_tab_name=main" target="_blank" rel="noopener noreferrer"><strong>火影忍者萝卜</strong></a>  | 抖音 | 萝卜 |     111.0w      |
-| <a href="https://www.douyin.com/user/MS4wLjABAAAAKmzQ6GRoQvDmS3344JpPmhG-ZQs-k4tASjmbq_iXNIszX11DRe3B_CmiBkyYEG7i?from_tab_name=main" target="_blank" rel="noopener noreferrer"><strong>许仙火影忍者手游</strong></a> | 抖音 | 许仙 |      28.7w      |
-|             <a href="https://www.douyin.com/user/MS4wLjABAAAAwrcv0FskSzKscFa1mfBanConRbqSKtk_bTcIhq3mmWs?from_tab_name=main" target="_blank" rel="noopener noreferrer"><strong>无氪玩家</strong></a>              | 抖音 | 无氪 |     258.3w      |
+|                                                                      博主                                                                       | 平台 | 简写 | 粉丝量（截止26/03/24） |
+|:---------------------------------------------------------------------------------------------------------------------------------------------:| :--: | :--: |:---------------:|
+|              [**南宫的嘟嘟**](https://www.douyin.com/user/MS4wLjABAAAAVoBbnKiN2-9t8Lz69lYklrqAL-_-t-2rJ8pyIjEDxlk?from_tab_name=main)              | 抖音 | 南宫的嘟嘟 |      3.4w       |
+|              [**南宫诺奇**](https://www.douyin.com/user/MS4wLjABAAAA8LqKXclwOw-EBMvRvEBTnw9N_ibnaenOV3JIY8u5e2Y?from_tab_name=main)               | 抖音 | 南宫诺奇 |      1.6w       |
+|    [**火影子时**](https://www.douyin.com/user/MS4wLjABAAAA2ugLHsGsSNx5Be58ACWL7hNf8qiKOMi3ASea4JB18seP3-vm65TzJimuxvM_wL5n?from_tab_name=main)    | 抖音 | 子时 |      1.0w       |
+|   [**火影忍者萝卜**](https://www.douyin.com/user/MS4wLjABAAAAK0VgLWfiB1Cm7tYXFcfWPHF3CGmiCfq5YXvz8IjL-rP8WzLjbfIl0_jVMPB9k5Th?from_tab_name=main)   | 抖音 | 萝卜 |     111.0w      |
+|  [**许仙火影忍者手游**](https://www.douyin.com/user/MS4wLjABAAAAKmzQ6GRoQvDmS3344JpPmhG-ZQs-k4tASjmbq_iXNIszX11DRe3B_CmiBkyYEG7i?from_tab_name=main)  | 抖音 | 许仙 |      28.7w      |
+|              [**无氪玩家**](https://www.douyin.com/user/MS4wLjABAAAAwrcv0FskSzKscFa1mfBanConRbqSKtk_bTcIhq3mmWs?from_tab_name=main)               | 抖音 | 无氪 |     258.3w      |
 
 </div>
+
+>💡 按住 Ctrl（Windows）或 Cmd（Mac）点击链接，可在新标签页打开。
 
 ---
 
@@ -145,7 +147,7 @@ naruto/
 └─ fetch_cards.py
 ```
 
-> 当前默认使用 API 方案，`fetch_cards.py` 可按需忽略。
+>💡 当前默认使用 API 方案，`fetch_cards.py` 可按需忽略。
 
 ---
 
@@ -161,9 +163,9 @@ GetOneAPI 与 JustOneAPI 为付费 API，具体价格与试用策略请自行前
 [GetOneAPI 官网](https://api.getoneapi.com/register) ，
 [JustOneAPI 官网](https://dashboard.justoneapi.com/zh/register)
 
->注册时是使用邮箱注册，然后API提供商会将key直接发送至邮箱，每个新用户都有免费试用的次数
+>💡 注册时是使用邮箱注册，然后API提供商会将key直接发送至邮箱，每个新用户都有免费试用的次数
 
->如果你用完次数，可以联系我（可以提供无限次数的方法）,QQ:`2717831140`(备注来意)
+>💡 如果你用完次数，可以联系我（可以提供无限次数的方法）,QQ:`2717831140`(备注来意)
 
 ### 2.GetOneAPI
 
